@@ -13,6 +13,7 @@ def valid_move?(board, index)
       true
     end
   end
+end
 
 
 def position_taken?(board, index)
