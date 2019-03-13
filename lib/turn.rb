@@ -33,4 +33,5 @@ def turn(board)
     move(board, index, player = X)
   else
     turn(board)
+  end
 end
