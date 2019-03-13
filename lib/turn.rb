@@ -15,7 +15,7 @@ end
 def position_taken?()
 
 
-def 
+def input_to_index
 
 def move 
   
